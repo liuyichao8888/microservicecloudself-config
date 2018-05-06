@@ -8,7 +8,7 @@ spring:
 spring:
   profiles: dev #开发环境
   application:
-    name: microservicecloudself-config-liuyc-dec
+    name: microservicecloudself-config-liuyc-dev
 
 ---
 
